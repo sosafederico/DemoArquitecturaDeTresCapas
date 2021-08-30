@@ -11,7 +11,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentatio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppClient", "ConsoleAppClient\ConsoleAppClient.csproj", "{D04E6579-6C24-4F5D-BC40-598D3EBDCF21}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesktoAppClient", "DesktoAppClient\DesktoAppClient.csproj", "{ECC6A059-36CD-4859-9C20-C2C8604C5782}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesktopAppClient", "DesktoAppClient\DesktopAppClient.csproj", "{ECC6A059-36CD-4859-9C20-C2C8604C5782}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{2316B4E6-3EF6-42C8-B031-7FBCA1025F46}"
 EndProject
